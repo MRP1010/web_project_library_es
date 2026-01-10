@@ -82,7 +82,6 @@
   align-items: center;
   justify-content: flex-end;
   box-sizing: border-box;
-  margin-top: auto;
 }
 
 .header__link {
@@ -252,7 +251,6 @@
 }
 
 .person_name_feynman {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
   top: -30px;
   right: 319px;
 }
